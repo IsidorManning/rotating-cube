@@ -44,23 +44,3 @@ class Cube {
 
   void rotate();
 };
-
-
-
-
-// Att lära dig:
-
-// förstå hur du ska använda hyperparameters (cube_width)
-
-// rotation matrices. förstå matematiken exakt och hur vi kalkulerar allt.
-
-// lär dig exakt hur calculateForSurfaces fungerar
-
-// vad är skillnaden mellan (A, B, C), (x, y, z) och (i, j, k) här?
-
-// gör tid dynamic så man kan ställa in hur länge den ska rotera 
-
-// Lägg till const där det skulle kunna behövas?
-
-// pröva att byta från kub till sphere till cylinder till pyramid.
-
